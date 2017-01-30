@@ -1,0 +1,7 @@
+- python
+- pip
+
+```
+  pip install scipy
+  pip install scikit-learn
+```
